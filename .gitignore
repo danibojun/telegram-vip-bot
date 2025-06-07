@@ -1,0 +1,23 @@
+# Arquivos de ambiente
+.env
+
+# Banco de dados SQLite
+*.db
+
+# Pastas de ambiente virtual
+.venv/
+virtualenv/
+venv/
+
+# Logs
+*.log
+
+# Cache e outros arquivos gerados
+__pycache__/
+*.pyc
+*.tmp
+*.bak
+
+# Chaves SSH
+*.key
+*.pub 
